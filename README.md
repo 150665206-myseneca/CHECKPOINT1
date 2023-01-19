@@ -16,3 +16,10 @@
 
 ## My Image
 ![It is an image](https://github.com/hrmore/CHECKPOINT1/blob/main/kakashi.jpg)
+## Single Line of Code
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
