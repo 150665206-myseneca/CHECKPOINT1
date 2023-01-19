@@ -2,8 +2,8 @@
 
 - *COURSE INFORMATION: CSN400 Computer System Project*
 - *STUDENT’S NAME: Harsh More*
-- *STUDENT'S NUMBER: 12860721*
-- *GITHUB USER_ID: 128607215-myseneca* 
+- *STUDENT'S NUMBER: 150665206*
+- *GITHUB USER_ID: hrmore* 
 - *TEACHER’S NAME: Atoosa Nasiri*
 
 ### Table of Contents
