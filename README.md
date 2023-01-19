@@ -45,4 +45,4 @@ print(g)
 | ---------------------- |
 
 ## Hyperlinks
-Click to get motivation(https://github.com/hrmore/CHECKPOINT1/blob/main/Harvey-Specter.png)
+[Click to get motivation](https://github.com/hrmore/CHECKPOINT1/blob/main/Harvey-Specter.png)
