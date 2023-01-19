@@ -20,3 +20,10 @@
 ```
 print ('One Piece')
 ```
+## Multiple Lines of Code
+```
+#!/usr/bin/env python3
+g = "Kakashi\
+of\
+Hidden Leaf"
+print(g)
