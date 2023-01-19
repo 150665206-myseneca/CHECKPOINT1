@@ -40,3 +40,5 @@ print(g)
     }  
 }  
 ```
+## Sample table
+| This is a sample table |
