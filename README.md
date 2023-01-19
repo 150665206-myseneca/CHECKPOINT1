@@ -27,3 +27,16 @@ g = "Kakashi\
 of\
 Hidden Leaf"
 print(g)
+```
+
+## Sample JSON Objects
+```
+
+{  
+    "Ninja": {  
+        "name":       "Kakashi",   
+        "salary":      56000,   
+        "Status":    Alive  
+    }  
+}  
+```
