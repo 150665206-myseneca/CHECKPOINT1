@@ -40,9 +40,13 @@ print(g)
     }  
 }  
 ```
-## Sample table
-| This is a sample table |
-| ---------------------- |
+## Sample Table
+
+
+| Name       | Age | Gender | Address       | Phone Number |
+| :--------- | ---:| :-----:| :------------:| -----------: |
+| Monkey.D.Luffy | 23  | Male   | 123 Main St   | 111-111-1111 |
+| Roronoa Zoro | 25  | Male   | 456 Park Ave  |000-000-0000 |
 
 ## Hyperlinks
 ```
